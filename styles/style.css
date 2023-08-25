@@ -28,6 +28,7 @@ html {
   display: flex;
   justify-content: center;
   block-size: 800px;
+  margin: auto;
   align-items: center;
 }
 
