@@ -23,12 +23,13 @@ html {
 .page {
   inline-size: 1200px;
   block-size: 100%;
-  margin-inline-start: 30px;
   margin-block-start: 133px;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  display: flex;
+  justify-content: center;
 }
 
 h1,
@@ -54,7 +55,6 @@ ol {
   display: flex;
   flex-direction: row;
   gap: 30px;
-  justify-content: center;
   align-items: end;
   max-height: 534px;
   width: 1140px;
@@ -63,7 +63,7 @@ ol {
 .result__video-container {
   width: 711px;
   height: 386px;
-  margin-bottom: 16px;
+  margin-block-end: 16px;
   position: relative;
 }
 
