@@ -21,8 +21,7 @@ html {
 }
 
 .page {
-  inline-size: 1200px;
-  block-size: 100%;
+  block-size: 800px;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
@@ -51,13 +50,13 @@ ol {
 }
 
 .content {
-  margin-block-start: 133px;
   display: flex;
   flex-direction: row;
   gap: 30px;
   align-items: end;
   max-height: 534px;
   width: 1140px;
+  margin-block-start: 133px;
 }
 
 .result__video-container {
