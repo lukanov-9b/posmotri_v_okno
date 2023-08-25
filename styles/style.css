@@ -26,9 +26,9 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  display: grid;
+  display: flex;
   block-size: 800px;
-  align-content: center;
+  align-items: center;
   justify-content: center;
 }
 
