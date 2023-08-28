@@ -28,8 +28,8 @@ html {
   background-color: #1b1919;
   display: flex;
   block-size: 800px;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
 h1,
@@ -57,7 +57,7 @@ ol {
   gap: 30px;
   align-items: end;
   block-size: 534px;
-  width: 1140px;
+  inline-size: 1140px;
   position: relative;
 }
 
